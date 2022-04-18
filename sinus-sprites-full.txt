@@ -1,0 +1,201 @@
+
+; SPRITE IMAGE DATA : 28 images : total size is 1792 ($700) bytes.
+
+// butt fat white character set
+
+spr_imgA
+
+.byte $ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff
+.byte $ff,$fe,$ff,$ff,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff,$ff,$fe,$ff,$ff
+.byte $fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ef,$fe
+.byte $ff,$ef,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$05
+
+spr_imgB
+
+.byte $ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff
+.byte $ff,$fe,$ff,$fe,$fe,$ff,$fe,$fe,$ff,$ff,$fe,$ff,$ff,$e0,$ff,$ff
+.byte $fe,$ff,$fe,$fe,$ff,$fe,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe
+.byte $ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$05
+
+spr_imgC
+
+.byte $ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff
+.byte $ff,$fe,$ff,$fe,$fe,$ff,$fe,$fe,$ff,$fe,$fe,$ff,$fe,$00,$ff,$fe
+.byte $fe,$ff,$fe,$fe,$ff,$fe,$fe,$ff,$fe,$fe,$ff,$ff,$fe,$ff,$ff,$fe
+.byte $ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$05
+
+spr_imgD
+
+.byte $ff,$ff,$fc,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff
+.byte $ff,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff,$ef
+.byte $fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff,$ff,$fe
+.byte $ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fc,$05
+
+spr_imgE
+
+.byte $ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff
+.byte $ff,$fe,$ff,$ff,$00,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff
+.byte $fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$00,$ff,$ff,$fe
+.byte $ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$05
+
+spr_imgF
+
+.byte $ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff
+.byte $ff,$fe,$ff,$ff,$00,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff
+.byte $fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$00,$ff,$ff,$00
+.byte $ff,$ff,$00,$ff,$ff,$00,$ff,$ff,$00,$ff,$ff,$00,$ff,$ff,$00,$05
+
+spr_imgG
+
+.byte $ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff
+.byte $ff,$fe,$ff,$fe,$00,$ff,$fe,$fe,$ff,$fe,$fe,$ff,$fe,$fe,$ff,$fe
+.byte $fe,$ff,$fe,$fe,$ff,$fe,$fe,$ff,$fe,$fe,$ff,$ff,$fe,$ff,$ff,$fe
+.byte $ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$05
+
+spr_imgH
+
+.byte $ff,$ef,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff
+.byte $ef,$fe,$ff,$ef,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff
+.byte $fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ef,$fe,$ff,$ef,$fe
+.byte $ff,$ef,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$05
+
+spr_imgI
+
+.byte $ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff
+.byte $ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$00,$ff
+.byte $00,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe
+.byte $ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$05
+
+spr_imgJ
+
+.byte $ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff
+.byte $ff,$fe,$00,$00,$fe,$ff,$fe,$fe,$ff,$fe,$fe,$ff,$fe,$fe,$ff,$fe
+.byte $fe,$ff,$fe,$fe,$ff,$fe,$fe,$ff,$fe,$fe,$ff,$ff,$fe,$ff,$ff,$fe
+.byte $ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$05
+
+spr_imgK
+
+.byte $ff,$fe,$fe,$ff,$fe,$fe,$ff,$fe,$fe,$ff,$fe,$fe,$ff,$fe,$fe,$ff
+.byte $fe,$fe,$ff,$fe,$fe,$ff,$fe,$fe,$ff,$ff,$fe,$ff,$ff,$e0,$ff,$ff
+.byte $fe,$ff,$fe,$fe,$ff,$fe,$fe,$ff,$fe,$fe,$ff,$fe,$fe,$ff,$fe,$fe
+.byte $ff,$fe,$fe,$ff,$fe,$fe,$ff,$fe,$fe,$ff,$fe,$fe,$ff,$fe,$fe,$05
+
+spr_imgL
+
+.byte $ff,$ff,$00,$ff,$ff,$00,$ff,$ff,$00,$ff,$ff,$00,$ff,$ff,$00,$ff
+.byte $ff,$00,$ff,$ff,$00,$ff,$ff,$00,$ff,$ff,$00,$ff,$ff,$00,$ff,$ff
+.byte $00,$ff,$ff,$00,$ff,$ff,$00,$ff,$ff,$00,$ff,$ff,$fe,$ff,$ff,$fe
+.byte $ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$05
+
+spr_imgM
+
+.byte $ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff
+.byte $ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff
+.byte $fe,$ff,$ff,$fe,$ff,$ff,$fe,$fe,$fe,$fe,$fe,$fe,$fe,$fe,$fe,$fe
+.byte $fe,$fe,$fe,$fe,$fe,$fe,$fe,$fe,$fe,$fe,$fe,$fe,$fe,$fe,$fe,$05
+
+spr_imgN
+
+.byte $ff,$fe,$fe,$ff,$fe,$fe,$ff,$fe,$fe,$ff,$fe,$fe,$ff,$fe,$fe,$ff
+.byte $fe,$fe,$ff,$fe,$fe,$ff,$fe,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff
+.byte $fe,$ff,$ff,$fe,$ff,$ff,$fe,$fe,$ff,$fe,$fe,$ff,$fe,$fe,$ff,$fe
+.byte $fe,$ff,$fe,$fe,$ff,$fe,$fe,$ff,$fe,$fe,$ff,$fe,$fe,$ff,$fe,$05
+
+spr_imgO
+
+.byte $ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff
+.byte $ff,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff,$ef
+.byte $fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff,$ff,$fe
+.byte $ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$05
+
+spr_imgP
+
+.byte $ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff
+.byte $ff,$fe,$ff,$fe,$fe,$ff,$fe,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff
+.byte $fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$00,$ff,$ff,$00
+.byte $ff,$ff,$00,$ff,$ff,$00,$ff,$ff,$00,$ff,$ff,$00,$ff,$ff,$00,$05
+
+spr_imgQ
+
+.byte $ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff
+.byte $ff,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff,$ef
+.byte $fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff,$ef,$e0,$ff,$ff,$fe
+.byte $ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$05
+
+spr_imgR
+
+.byte $ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff
+.byte $ff,$fe,$ff,$fe,$fe,$ff,$fe,$fe,$ff,$ff,$fe,$ff,$ff,$e0,$ff,$ff
+.byte $fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$fe,$fe,$ff,$fe,$fe
+.byte $ff,$fe,$fe,$ff,$fe,$fe,$ff,$fe,$fe,$ff,$fe,$fe,$ff,$fe,$fe,$05
+
+spr_imgS
+
+.byte $ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff
+.byte $ff,$fe,$ff,$ff,$fe,$ff,$ff,$00,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff
+.byte $fe,$ff,$ff,$fe,$ff,$ff,$fe,$00,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe
+.byte $ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$05
+
+spr_imgT
+
+.byte $ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff
+.byte $ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff
+.byte $fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$01,$ff,$00,$01,$ff,$00
+.byte $01,$ff,$00,$01,$ff,$00,$01,$ff,$00,$01,$ff,$00,$01,$ff,$00,$05
+
+spr_imgU
+
+.byte $ff,$ef,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff
+.byte $ef,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff,$ef
+.byte $fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff,$ff,$fe,$ff,$ff,$fe
+.byte $ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$05
+
+spr_imgV
+
+.byte $ff,$ef,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff
+.byte $ef,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff,$ef
+.byte $fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff,$ff,$fe,$ff,$ff,$fe
+.byte $ff,$ff,$fe,$01,$ff,$00,$01,$ff,$00,$01,$ff,$00,$01,$ff,$00,$05
+
+spr_imgW
+
+.byte $fe,$fe,$fe,$fe,$fe,$fe,$fe,$fe,$fe,$fe,$fe,$fe,$fe,$fe,$fe,$fe
+.byte $fe,$fe,$fe,$fe,$fe,$fe,$fe,$fe,$fe,$fe,$fe,$fe,$fe,$fe,$fe,$fe
+.byte $fe,$fe,$fe,$fe,$fe,$fe,$fe,$fe,$fe,$fe,$ff,$ff,$fe,$ff,$ff,$fe
+.byte $ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$05
+
+spr_imgX
+
+.byte $ff,$ef,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff
+.byte $ef,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff,$ff,$fe,$0f,$ff,$e0,$ff,$ff
+.byte $fe,$ff,$ff,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff,$ef,$fe
+.byte $ff,$ef,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$05
+
+spr_imgY
+
+.byte $ff,$ef,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff,$ef,$fe,$ff
+.byte $ef,$fe,$ff,$ef,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff
+.byte $fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$01,$ff,$00,$01,$ff,$00
+.byte $01,$ff,$00,$01,$ff,$00,$01,$ff,$00,$01,$ff,$00,$01,$ff,$00,$05
+
+spr_imgZ
+
+.byte $ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff
+.byte $ff,$fe,$ff,$ff,$fe,$00,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff
+.byte $fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$00,$ff,$ff,$fe,$ff,$ff,$fe
+.byte $ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$ff,$ff,$fe,$05
+
+spr_imgEXC
+
+.byte $00,$ff,$00,$00,$ff,$00,$00,$ff,$00,$00,$ff,$00,$00,$ff,$00,$00
+.byte $ff,$00,$00,$ff,$00,$00,$ff,$00,$00,$ff,$00,$00,$ff,$00,$00,$ff
+.byte $00,$00,$ff,$00,$00,$ff,$00,$00,$ff,$00,$00,$00,$00,$00,$ff,$00
+.byte $00,$ff,$00,$00,$ff,$00,$00,$ff,$00,$00,$ff,$00,$00,$ff,$00,$05
+
+spr_imgSTOP
+
+.byte $00,$00,$00,$00,$00,$00,$00,$00,$00,$00,$00,$00,$00,$00,$00,$00
+.byte $00,$00,$00,$00,$00,$00,$00,$00,$00,$00,$00,$00,$00,$00,$00,$00
+.byte $00,$00,$00,$00,$00,$00,$00,$00,$00,$00,$00,$00,$00,$00,$ff,$00
+.byte $00,$ff,$00,$00,$ff,$00,$00,$ff,$00,$00,$ff,$00,$00,$ff,$00,$05
+
